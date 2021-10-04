@@ -1,0 +1,2 @@
+"hello"
+prinr("hello")
