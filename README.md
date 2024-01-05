@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Learning Management System(LMS)](https://github.com/roshanraj0613/LMS-FRONTEND)
 
-- 🌱 I’m currently learning **React-Native and MERN Development.**
+- 🌱 I’m currently learning **React-Native -- MERN Development -- Full stack Java developement**
 
 - 📫 How to reach me **rajroshan854105@gmail.com**
 
