@@ -1,9 +1,8 @@
-![Header](./your-header-image-name.png)
+![Header](./images/header.png)
 
 <h1 align="center">Hi 👋, I'm Roshan Raj</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"/>
-![Header](./your-header-image-name.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanraj0613&label=Profile%20views&color=0e75b6&style=flat" alt="roshanraj0613" /> </p>
